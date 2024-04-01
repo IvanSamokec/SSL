@@ -1,1 +1,6 @@
 # SSL
+K2052
+2024 1Q
+167434-1
+Samokec
+Ivan
